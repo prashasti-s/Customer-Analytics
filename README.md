@@ -82,7 +82,8 @@ employee took the order?
 
  - Who are the top-performing sales employees?
 
-INSIGHTS GAINED FROM THE PROJECT:
+# INSIGHTS GAINED FROM THE PROJECT:
+
 The insights that the project aims to gain from the data include:
 1) Identifying the most profitable product lines and products
 2) Understanding the factors that impact sales performance
