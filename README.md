@@ -84,7 +84,7 @@ employee took the order?
 
 # INSIGHTS GAINED FROM THE PROJECT:
 
-The insights that the project aims to gain from the data include:
+## The insights that the project aims to gain from the data include:
 1) Identifying the most profitable product lines and products
 2) Understanding the factors that impact sales performance
 3) Identifying the most effective sales employees and strategies
